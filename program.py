@@ -1,3 +1,6 @@
-amount = 20
+from car import Car
+
+car = Car('S')
 print("Hello world!")
-print(amount)
+print(car.amount)
+
