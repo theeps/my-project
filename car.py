@@ -1,4 +1,4 @@
 class Car:
-    number = ""
-    def __init__(self, number):
-        self.number = number
+    BrandName = ""
+    def __init__(self, BrandName):
+        self.number = BrandName
